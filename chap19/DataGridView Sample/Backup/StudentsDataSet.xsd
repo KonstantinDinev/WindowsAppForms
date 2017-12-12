@@ -1,0 +1,1206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StudentsDataSet" targetNamespace="http://tempuri.org/StudentsDataSet.xsd" xmlns:mstns="http://tempuri.org/StudentsDataSet.xsd" xmlns="http://tempuri.org/StudentsDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" GeneratorTypeConverterClassName="Converter" Modifier="AutoLayout, AnsiClass, Class, Public" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="StudentsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="StudentsConnectionString (Settings)" PropertyReference="&lt;SOAP-ENV:Envelope xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:SOAP-ENC=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot; xmlns:SOAP-ENV=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:clr=&quot;http://schemas.microsoft.com/soap/encoding/clr/1.0&quot; SOAP-ENV:encodingStyle=&quot;http://schemas.xmlsoap.org/soap/encoding/&quot;&gt;&#xD;&#xA;&lt;SOAP-ENV:Body&gt;&#xD;&#xA;&lt;a1:CodePropertyReferenceExpression id=&quot;ref-1&quot; xmlns:a1=&quot;http://schemas.microsoft.com/clr/nsassem/System.CodeDom/System%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089&quot;&gt;&#xD;&#xA;&lt;targetObject href=&quot;#ref-3&quot;/&gt;&#xD;&#xA;&lt;propertyName id=&quot;ref-4&quot;&gt;StudentsConnectionString&lt;/propertyName&gt;&#xD;&#xA;&lt;parameters href=&quot;#ref-5&quot;/&gt;&#xD;&#xA;&lt;CodeObject_x002B_userData xsi:null=&quot;1&quot;/&gt;&#xD;&#xA;&lt;/a1:CodePropertyReferenceExpression&gt;&#xD;&#xA;&lt;a1:CodePropertyReferenceExpression id=&quot;ref-3&quot; xmlns:a1=&quot;http://schemas.microsoft.com/clr/nsassem/System.CodeDom/System%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089&quot;&gt;&#xD;&#xA;&lt;targetObject href=&quot;#ref-6&quot;/&gt;&#xD;&#xA;&lt;propertyName id=&quot;ref-7&quot;&gt;Default&lt;/propertyName&gt;&#xD;&#xA;&lt;parameters href=&quot;#ref-8&quot;/&gt;&#xD;&#xA;&lt;CodeObject_x002B_userData xsi:null=&quot;1&quot;/&gt;&#xD;&#xA;&lt;/a1:CodePropertyReferenceExpression&gt;&#xD;&#xA;&lt;a1:CodeExpressionCollection id=&quot;ref-5&quot; xmlns:a1=&quot;http://schemas.microsoft.com/clr/nsassem/System.CodeDom/System%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089&quot;&gt;&#xD;&#xA;&lt;CollectionBase_x002B_list href=&quot;#ref-9&quot;/&gt;&#xD;&#xA;&lt;/a1:CodeExpressionCollection&gt;&#xD;&#xA;&lt;a1:CodeTypeReferenceExpression id=&quot;ref-6&quot; xmlns:a1=&quot;http://schemas.microsoft.com/clr/nsassem/System.CodeDom/System%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089&quot;&gt;&#xD;&#xA;&lt;type href=&quot;#ref-10&quot;/&gt;&#xD;&#xA;&lt;CodeObject_x002B_userData xsi:null=&quot;1&quot;/&gt;&#xD;&#xA;&lt;/a1:CodeTypeReferenceExpression&gt;&#xD;&#xA;&lt;a1:CodeExpressionCollection id=&quot;ref-8&quot; xmlns:a1=&quot;http://schemas.microsoft.com/clr/nsassem/System.CodeDom/System%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089&quot;&gt;&#xD;&#xA;&lt;CollectionBase_x002B_list href=&quot;#ref-11&quot;/&gt;&#xD;&#xA;&lt;/a1:CodeExpressionCollection&gt;&#xD;&#xA;&lt;a2:ArrayList id=&quot;ref-9&quot; xmlns:a2=&quot;http://schemas.microsoft.com/clr/ns/System.Collections&quot;&gt;&#xD;&#xA;&lt;_items href=&quot;#ref-12&quot;/&gt;&#xD;&#xA;&lt;_size&gt;0&lt;/_size&gt;&#xD;&#xA;&lt;_version&gt;0&lt;/_version&gt;&#xD;&#xA;&lt;/a2:ArrayList&gt;&#xD;&#xA;&lt;a1:CodeTypeReference id=&quot;ref-10&quot; xmlns:a1=&quot;http://schemas.microsoft.com/clr/nsassem/System.CodeDom/System%2C%20Version%3D2.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Db77a5c561934e089&quot;&gt;&#xD;&#xA;&lt;baseType id=&quot;ref-13&quot;&gt;DataGridView_Sample.Settings&lt;/baseType&gt;&#xD;&#xA;&lt;isInterface&gt;false&lt;/isInterface&gt;&#xD;&#xA;&lt;arrayRank&gt;0&lt;/arrayRank&gt;&#xD;&#xA;&lt;arrayElementType xsi:null=&quot;1&quot;/&gt;&#xD;&#xA;&lt;typeArguments xsi:null=&quot;1&quot;/&gt;&#xD;&#xA;&lt;referenceOptions&gt;0&lt;/referenceOptions&gt;&#xD;&#xA;&lt;needsFixup&gt;true&lt;/needsFixup&gt;&#xD;&#xA;&lt;CodeObject_x002B_userData xsi:null=&quot;1&quot;/&gt;&#xD;&#xA;&lt;/a1:CodeTypeReference&gt;&#xD;&#xA;&lt;a2:ArrayList id=&quot;ref-11&quot; xmlns:a2=&quot;http://schemas.microsoft.com/clr/ns/System.Collections&quot;&gt;&#xD;&#xA;&lt;_items href=&quot;#ref-12&quot;/&gt;&#xD;&#xA;&lt;_size&gt;0&lt;/_size&gt;&#xD;&#xA;&lt;_version&gt;0&lt;/_version&gt;&#xD;&#xA;&lt;/a2:ArrayList&gt;&#xD;&#xA;&lt;SOAP-ENC:Array id=&quot;ref-12&quot; SOAP-ENC:arrayType=&quot;xsd:anyType[0]&quot;&gt;&#xD;&#xA;&lt;/SOAP-ENC:Array&gt;&#xD;&#xA;&lt;/SOAP-ENV:Body&gt;&#xD;&#xA;&lt;/SOAP-ENV:Envelope&gt;&#xD;&#xA;" Provider="System.Data.OleDb">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="AssignmentsTableAdapter" GeneratorDataComponentClassName="AssignmentsTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Assignments" UserDataComponentName="AssignmentsTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Assignments" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Assignments` WHERE ((`AssignmentID` = ?) AND ((? = 1 AND `AssignmentDescription` IS NULL) OR (`AssignmentDescription` = ?)) AND ((? = 1 AND `ClassID` IS NULL) OR (`ClassID` = ?)) AND ((? = 1 AND `Exam` IS NULL) OR (`Exam` = ?)) AND ((? = 1 AND `PercentOfGrade` IS NULL) OR (`PercentOfGrade` = ?)) AND ((? = 1 AND `MaximumPoints` IS NULL) OR (`MaximumPoints` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentDescription" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentDescription" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Exam" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Exam" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="PercentOfGrade" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="PercentOfGrade" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="MaximumPoints" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Single" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="MaximumPoints" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Assignments` (`AssignmentDescription`, `ClassID`, `Exam`, `PercentOfGrade`, `MaximumPoints`) VALUES (?, ?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentDescription" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Exam" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="PercentOfGrade" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Single" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="MaximumPoints" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT AssignmentID, AssignmentDescription, ClassID, Exam, PercentOfGrade, MaximumPoints FROM Assignments</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Assignments` SET `AssignmentDescription` = ?, `ClassID` = ?, `Exam` = ?, `PercentOfGrade` = ?, `MaximumPoints` = ? WHERE ((`AssignmentID` = ?) AND ((? = 1 AND `AssignmentDescription` IS NULL) OR (`AssignmentDescription` = ?)) AND ((? = 1 AND `ClassID` IS NULL) OR (`ClassID` = ?)) AND ((? = 1 AND `Exam` IS NULL) OR (`Exam` = ?)) AND ((? = 1 AND `PercentOfGrade` IS NULL) OR (`PercentOfGrade` = ?)) AND ((? = 1 AND `MaximumPoints` IS NULL) OR (`MaximumPoints` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentDescription" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Exam" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="PercentOfGrade" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Single" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="MaximumPoints" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentDescription" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentDescription" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="Exam" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="Exam" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="PercentOfGrade" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p14" Precision="0" Scale="0" Size="0" SourceColumn="PercentOfGrade" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p15" Precision="0" Scale="0" Size="0" SourceColumn="MaximumPoints" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Single" Direction="Input" ParameterName="p16" Precision="0" Scale="0" Size="0" SourceColumn="MaximumPoints" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="AssignmentID" DataSetColumn="AssignmentID" />
+              <Mapping SourceColumn="AssignmentDescription" DataSetColumn="AssignmentDescription" />
+              <Mapping SourceColumn="ClassID" DataSetColumn="ClassID" />
+              <Mapping SourceColumn="Exam" DataSetColumn="Exam" />
+              <Mapping SourceColumn="PercentOfGrade" DataSetColumn="PercentOfGrade" />
+              <Mapping SourceColumn="MaximumPoints" DataSetColumn="MaximumPoints" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="ClassesTableAdapter" GeneratorDataComponentClassName="ClassesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Classes" UserDataComponentName="ClassesTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Classes" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Classes` WHERE ((`ClassID` = ?) AND ((? = 1 AND `ClassName` IS NULL) OR (`ClassName` = ?)) AND ((? = 1 AND `Department` IS NULL) OR (`Department` = ?)) AND ((? = 1 AND `Prof` IS NULL) OR (`Prof` = ?)) AND ((? = 1 AND `SectionNumber` IS NULL) OR (`SectionNumber` = ?)) AND ((? = 1 AND `Term` IS NULL) OR (`Term` = ?)) AND ((? = 1 AND `Units` IS NULL) OR (`Units` = ?)) AND ((? = 1 AND `Year` IS NULL) OR (`Year` = ?)) AND ((? = 1 AND `Location` IS NULL) OR (`Location` = ?)) AND ((? = 1 AND `DaysAndTimes` IS NULL) OR (`DaysAndTimes` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ClassName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="ClassName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="Department" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Department" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Prof" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Prof" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="SectionNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="SectionNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Term" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="Term" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="Units" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="Units" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p14" Precision="0" Scale="0" Size="0" SourceColumn="Year" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p15" Precision="0" Scale="0" Size="0" SourceColumn="Year" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p16" Precision="0" Scale="0" Size="0" SourceColumn="Location" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p17" Precision="0" Scale="0" Size="0" SourceColumn="Location" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p18" Precision="0" Scale="0" Size="0" SourceColumn="DaysAndTimes" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p19" Precision="0" Scale="0" Size="0" SourceColumn="DaysAndTimes" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Classes` (`ClassName`, `Department`, `Prof`, `SectionNumber`, `Term`, `Units`, `Year`, `Location`, `DaysAndTimes`, `Notes`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="ClassName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="Department" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Prof" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="SectionNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Term" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Units" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Year" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="Location" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="DaysAndTimes" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Notes" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT ClassID, ClassName, Department, Prof, SectionNumber, Term, Units, [Year], Location, DaysAndTimes, Notes FROM Classes</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Classes` SET `ClassName` = ?, `Department` = ?, `Prof` = ?, `SectionNumber` = ?, `Term` = ?, `Units` = ?, `Year` = ?, `Location` = ?, `DaysAndTimes` = ?, `Notes` = ? WHERE ((`ClassID` = ?) AND ((? = 1 AND `ClassName` IS NULL) OR (`ClassName` = ?)) AND ((? = 1 AND `Department` IS NULL) OR (`Department` = ?)) AND ((? = 1 AND `Prof` IS NULL) OR (`Prof` = ?)) AND ((? = 1 AND `SectionNumber` IS NULL) OR (`SectionNumber` = ?)) AND ((? = 1 AND `Term` IS NULL) OR (`Term` = ?)) AND ((? = 1 AND `Units` IS NULL) OR (`Units` = ?)) AND ((? = 1 AND `Year` IS NULL) OR (`Year` = ?)) AND ((? = 1 AND `Location` IS NULL) OR (`Location` = ?)) AND ((? = 1 AND `DaysAndTimes` IS NULL) OR (`DaysAndTimes` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="ClassName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="Department" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Prof" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="SectionNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Term" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Units" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Year" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="Location" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="DaysAndTimes" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Notes" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="ClassName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="ClassName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p14" Precision="0" Scale="0" Size="0" SourceColumn="Department" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p15" Precision="0" Scale="0" Size="0" SourceColumn="Department" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p16" Precision="0" Scale="0" Size="0" SourceColumn="Prof" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p17" Precision="0" Scale="0" Size="0" SourceColumn="Prof" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p18" Precision="0" Scale="0" Size="0" SourceColumn="SectionNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p19" Precision="0" Scale="0" Size="0" SourceColumn="SectionNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p20" Precision="0" Scale="0" Size="0" SourceColumn="Term" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p21" Precision="0" Scale="0" Size="0" SourceColumn="Term" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p22" Precision="0" Scale="0" Size="0" SourceColumn="Units" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p23" Precision="0" Scale="0" Size="0" SourceColumn="Units" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p24" Precision="0" Scale="0" Size="0" SourceColumn="Year" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p25" Precision="0" Scale="0" Size="0" SourceColumn="Year" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p26" Precision="0" Scale="0" Size="0" SourceColumn="Location" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p27" Precision="0" Scale="0" Size="0" SourceColumn="Location" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p28" Precision="0" Scale="0" Size="0" SourceColumn="DaysAndTimes" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p29" Precision="0" Scale="0" Size="0" SourceColumn="DaysAndTimes" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ClassID" DataSetColumn="ClassID" />
+              <Mapping SourceColumn="ClassName" DataSetColumn="ClassName" />
+              <Mapping SourceColumn="Department" DataSetColumn="Department" />
+              <Mapping SourceColumn="Prof" DataSetColumn="Prof" />
+              <Mapping SourceColumn="SectionNumber" DataSetColumn="SectionNumber" />
+              <Mapping SourceColumn="Term" DataSetColumn="Term" />
+              <Mapping SourceColumn="Units" DataSetColumn="Units" />
+              <Mapping SourceColumn="Year" DataSetColumn="Year" />
+              <Mapping SourceColumn="Location" DataSetColumn="Location" />
+              <Mapping SourceColumn="DaysAndTimes" DataSetColumn="DaysAndTimes" />
+              <Mapping SourceColumn="Notes" DataSetColumn="Notes" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="DepartmentsTableAdapter" GeneratorDataComponentClassName="DepartmentsTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Departments" UserDataComponentName="DepartmentsTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Departments" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Departments` WHERE ((`DepartmentID` = ?) AND ((? = 1 AND `DepartmentName` IS NULL) OR (`DepartmentName` = ?)) AND ((? = 1 AND `DepartmentNumber` IS NULL) OR (`DepartmentNumber` = ?)) AND ((? = 1 AND `DepartmentManager` IS NULL) OR (`DepartmentManager` = ?)) AND ((? = 1 AND `DepartmentChairperson` IS NULL) OR (`DepartmentChairperson` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentManager" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentManager" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentChairperson" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentChairperson" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Departments` (`DepartmentName`, `DepartmentNumber`, `DepartmentManager`, `DepartmentChairperson`) VALUES (?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentManager" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentChairperson" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT DepartmentID, DepartmentName, DepartmentNumber, DepartmentManager, DepartmentChairperson FROM Departments</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Departments` SET `DepartmentName` = ?, `DepartmentNumber` = ?, `DepartmentManager` = ?, `DepartmentChairperson` = ? WHERE ((`DepartmentID` = ?) AND ((? = 1 AND `DepartmentName` IS NULL) OR (`DepartmentName` = ?)) AND ((? = 1 AND `DepartmentNumber` IS NULL) OR (`DepartmentNumber` = ?)) AND ((? = 1 AND `DepartmentManager` IS NULL) OR (`DepartmentManager` = ?)) AND ((? = 1 AND `DepartmentChairperson` IS NULL) OR (`DepartmentChairperson` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentManager" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentChairperson" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentManager" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentManager" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentChairperson" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="DepartmentChairperson" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="DepartmentID" DataSetColumn="DepartmentID" />
+              <Mapping SourceColumn="DepartmentName" DataSetColumn="DepartmentName" />
+              <Mapping SourceColumn="DepartmentNumber" DataSetColumn="DepartmentNumber" />
+              <Mapping SourceColumn="DepartmentManager" DataSetColumn="DepartmentManager" />
+              <Mapping SourceColumn="DepartmentChairperson" DataSetColumn="DepartmentChairperson" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="InstructorsTableAdapter" GeneratorDataComponentClassName="InstructorsTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Instructors" UserDataComponentName="InstructorsTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Instructors" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Instructors` WHERE ((`InstructorID` = ?) AND ((? = 1 AND `Instructor` IS NULL) OR (`Instructor` = ?)) AND ((? = 1 AND `PhoneNumber` IS NULL) OR (`PhoneNumber` = ?)) AND ((? = 1 AND `Extension` IS NULL) OR (`Extension` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="InstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="Instructor" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Instructor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Extension" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Extension" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Instructors` (`Instructor`, `PhoneNumber`, `Extension`) VALUES (?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="Instructor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Extension" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT InstructorID, Instructor, PhoneNumber, Extension FROM Instructors</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Instructors` SET `Instructor` = ?, `PhoneNumber` = ?, `Extension` = ? WHERE ((`InstructorID` = ?) AND ((? = 1 AND `Instructor` IS NULL) OR (`Instructor` = ?)) AND ((? = 1 AND `PhoneNumber` IS NULL) OR (`PhoneNumber` = ?)) AND ((? = 1 AND `Extension` IS NULL) OR (`Extension` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="Instructor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Extension" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="InstructorID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Instructor" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Instructor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="Extension" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Extension" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="InstructorID" DataSetColumn="InstructorID" />
+              <Mapping SourceColumn="Instructor" DataSetColumn="Instructor" />
+              <Mapping SourceColumn="PhoneNumber" DataSetColumn="PhoneNumber" />
+              <Mapping SourceColumn="Extension" DataSetColumn="Extension" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="ResultsTableAdapter" GeneratorDataComponentClassName="ResultsTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Results" UserDataComponentName="ResultsTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Results" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Results` WHERE ((`ResultsID` = ?) AND ((? = 1 AND `StudentID` IS NULL) OR (`StudentID` = ?)) AND ((? = 1 AND `AssignmentID` IS NULL) OR (`AssignmentID` = ?)) AND ((? = 1 AND `Score` IS NULL) OR (`Score` = ?)) AND ((? = 1 AND `Late` IS NULL) OR (`Late` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="ResultsID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Score" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Score" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="Late" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="Late" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Results` (`StudentID`, `AssignmentID`, `Score`, `Late`) VALUES (?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Score" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="Late" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT ResultsID, StudentID, AssignmentID, Score, Late FROM Results</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Results` SET `StudentID` = ?, `AssignmentID` = ?, `Score` = ?, `Late` = ? WHERE ((`ResultsID` = ?) AND ((? = 1 AND `StudentID` IS NULL) OR (`StudentID` = ?)) AND ((? = 1 AND `AssignmentID` IS NULL) OR (`AssignmentID` = ?)) AND ((? = 1 AND `Score` IS NULL) OR (`Score` = ?)) AND ((? = 1 AND `Late` IS NULL) OR (`Late` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Score" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="Late" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="ResultsID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="AssignmentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Score" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="Score" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="Late" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="Late" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ResultsID" DataSetColumn="ResultsID" />
+              <Mapping SourceColumn="StudentID" DataSetColumn="StudentID" />
+              <Mapping SourceColumn="AssignmentID" DataSetColumn="AssignmentID" />
+              <Mapping SourceColumn="Score" DataSetColumn="Score" />
+              <Mapping SourceColumn="Late" DataSetColumn="Late" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="StudentsTableAdapter" GeneratorDataComponentClassName="StudentsTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Students" UserDataComponentName="StudentsTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Students" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Students` WHERE ((`StudentID` = ?) AND ((? = 1 AND `FirstName` IS NULL) OR (`FirstName` = ?)) AND ((? = 1 AND `LastName` IS NULL) OR (`LastName` = ?)) AND ((? = 1 AND `Address` IS NULL) OR (`Address` = ?)) AND ((? = 1 AND `City` IS NULL) OR (`City` = ?)) AND ((? = 1 AND `StateOrProvince` IS NULL) OR (`StateOrProvince` = ?)) AND ((? = 1 AND `PostalCode` IS NULL) OR (`PostalCode` = ?)) AND ((? = 1 AND `PhoneNumber` IS NULL) OR (`PhoneNumber` = ?)) AND ((? = 1 AND `Major` IS NULL) OR (`Major` = ?)) AND ((? = 1 AND `StudentNumber` IS NULL) OR (`StudentNumber` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="FirstName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="FirstName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="LastName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="LastName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Address" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Address" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="City" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="City" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="StateOrProvince" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="StateOrProvince" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="PostalCode" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="PostalCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p14" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p15" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p16" Precision="0" Scale="0" Size="0" SourceColumn="Major" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p17" Precision="0" Scale="0" Size="0" SourceColumn="Major" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p18" Precision="0" Scale="0" Size="0" SourceColumn="StudentNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p19" Precision="0" Scale="0" Size="0" SourceColumn="StudentNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Students` (`FirstName`, `LastName`, `Address`, `City`, `StateOrProvince`, `PostalCode`, `PhoneNumber`, `Major`, `StudentNumber`) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="FirstName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="LastName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Address" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="City" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="StateOrProvince" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="PostalCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="Major" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="StudentNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT StudentID, FirstName, LastName, Address, City, StateOrProvince, PostalCode, PhoneNumber, Major, StudentNumber FROM Students</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Students` SET `FirstName` = ?, `LastName` = ?, `Address` = ?, `City` = ?, `StateOrProvince` = ?, `PostalCode` = ?, `PhoneNumber` = ?, `Major` = ?, `StudentNumber` = ? WHERE ((`StudentID` = ?) AND ((? = 1 AND `FirstName` IS NULL) OR (`FirstName` = ?)) AND ((? = 1 AND `LastName` IS NULL) OR (`LastName` = ?)) AND ((? = 1 AND `Address` IS NULL) OR (`Address` = ?)) AND ((? = 1 AND `City` IS NULL) OR (`City` = ?)) AND ((? = 1 AND `StateOrProvince` IS NULL) OR (`StateOrProvince` = ?)) AND ((? = 1 AND `PostalCode` IS NULL) OR (`PostalCode` = ?)) AND ((? = 1 AND `PhoneNumber` IS NULL) OR (`PhoneNumber` = ?)) AND ((? = 1 AND `Major` IS NULL) OR (`Major` = ?)) AND ((? = 1 AND `StudentNumber` IS NULL) OR (`StudentNumber` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="FirstName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="LastName" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Address" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="City" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="StateOrProvince" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="PostalCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="Major" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="StudentNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="FirstName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="FirstName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="LastName" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p14" Precision="0" Scale="0" Size="0" SourceColumn="LastName" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p15" Precision="0" Scale="0" Size="0" SourceColumn="Address" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p16" Precision="0" Scale="0" Size="0" SourceColumn="Address" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p17" Precision="0" Scale="0" Size="0" SourceColumn="City" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p18" Precision="0" Scale="0" Size="0" SourceColumn="City" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p19" Precision="0" Scale="0" Size="0" SourceColumn="StateOrProvince" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p20" Precision="0" Scale="0" Size="0" SourceColumn="StateOrProvince" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p21" Precision="0" Scale="0" Size="0" SourceColumn="PostalCode" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p22" Precision="0" Scale="0" Size="0" SourceColumn="PostalCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p23" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p24" Precision="0" Scale="0" Size="0" SourceColumn="PhoneNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p25" Precision="0" Scale="0" Size="0" SourceColumn="Major" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p26" Precision="0" Scale="0" Size="0" SourceColumn="Major" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p27" Precision="0" Scale="0" Size="0" SourceColumn="StudentNumber" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p28" Precision="0" Scale="0" Size="0" SourceColumn="StudentNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="StudentID" DataSetColumn="StudentID" />
+              <Mapping SourceColumn="FirstName" DataSetColumn="FirstName" />
+              <Mapping SourceColumn="LastName" DataSetColumn="LastName" />
+              <Mapping SourceColumn="Address" DataSetColumn="Address" />
+              <Mapping SourceColumn="City" DataSetColumn="City" />
+              <Mapping SourceColumn="StateOrProvince" DataSetColumn="StateOrProvince" />
+              <Mapping SourceColumn="PostalCode" DataSetColumn="PostalCode" />
+              <Mapping SourceColumn="PhoneNumber" DataSetColumn="PhoneNumber" />
+              <Mapping SourceColumn="Major" DataSetColumn="Major" />
+              <Mapping SourceColumn="StudentNumber" DataSetColumn="StudentNumber" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="Students And ClassesTableAdapter" GeneratorDataComponentClassName="Students_And_ClassesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Students And Classes" UserDataComponentName="Students And ClassesTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Students And Classes" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Students And Classes` WHERE ((`StudentClassID` = ?) AND ((? = 1 AND `ClassID` IS NULL) OR (`ClassID` = ?)) AND ((? = 1 AND `StudentID` IS NULL) OR (`StudentID` = ?)) AND ((? = 1 AND `Grade` IS NULL) OR (`Grade` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="StudentClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Grade" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Grade" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Students And Classes` (`ClassID`, `StudentID`, `Grade`) VALUES (?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Grade" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT StudentClassID, ClassID, StudentID, Grade FROM [Students And Classes]</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Students And Classes` SET `ClassID` = ?, `StudentID` = ?, `Grade` = ? WHERE ((`StudentClassID` = ?) AND ((? = 1 AND `ClassID` IS NULL) OR (`ClassID` = ?)) AND ((? = 1 AND `StudentID` IS NULL) OR (`StudentID` = ?)) AND ((? = 1 AND `Grade` IS NULL) OR (`Grade` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="Grade" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="StudentClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="ClassID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="StudentID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="Grade" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Grade" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="StudentClassID" DataSetColumn="StudentClassID" />
+              <Mapping SourceColumn="ClassID" DataSetColumn="ClassID" />
+              <Mapping SourceColumn="StudentID" DataSetColumn="StudentID" />
+              <Mapping SourceColumn="Grade" DataSetColumn="Grade" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorName="Switchboard ItemsTableAdapter" GeneratorDataComponentClassName="Switchboard_ItemsTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" Name="Switchboard Items" UserDataComponentName="Switchboard ItemsTableAdapter" WebServiceAttribute="False">
+            <MainSource>
+              <DbSource ConnectionRef="StudentsConnectionString (Settings)" DbObjectName="Switchboard Items" DbObjectType="Table" EnableWebMethods="False" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GeneratePagingMethods="False" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM `Switchboard Items` WHERE ((`SwitchboardID` = ?) AND (`ItemNumber` = ?) AND ((? = 1 AND `ItemText` IS NULL) OR (`ItemText` = ?)) AND ((? = 1 AND `Command` IS NULL) OR (`Command` = ?)) AND ((? = 1 AND `Argument` IS NULL) OR (`Argument` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="SwitchboardID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ItemNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="ItemText" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="ItemText" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Command" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="Command" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="Argument" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="Argument" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO `Switchboard Items` (`SwitchboardID`, `ItemNumber`, `ItemText`, `Command`, `Argument`) VALUES (?, ?, ?, ?, ?)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="SwitchboardID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ItemNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="ItemText" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="Command" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Argument" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT SwitchboardID, ItemNumber, ItemText, Command, Argument FROM [Switchboard Items]</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE `Switchboard Items` SET `SwitchboardID` = ?, `ItemNumber` = ?, `ItemText` = ?, `Command` = ?, `Argument` = ? WHERE ((`SwitchboardID` = ?) AND (`ItemNumber` = ?) AND ((? = 1 AND `ItemText` IS NULL) OR (`ItemText` = ?)) AND ((? = 1 AND `Command` IS NULL) OR (`Command` = ?)) AND ((? = 1 AND `Argument` IS NULL) OR (`Argument` = ?)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p1" Precision="0" Scale="0" Size="0" SourceColumn="SwitchboardID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p2" Precision="0" Scale="0" Size="0" SourceColumn="ItemNumber" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p3" Precision="0" Scale="0" Size="0" SourceColumn="ItemText" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p4" Precision="0" Scale="0" Size="0" SourceColumn="Command" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p5" Precision="0" Scale="0" Size="0" SourceColumn="Argument" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p6" Precision="0" Scale="0" Size="0" SourceColumn="SwitchboardID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p7" Precision="0" Scale="0" Size="0" SourceColumn="ItemNumber" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p8" Precision="0" Scale="0" Size="0" SourceColumn="ItemText" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p9" Precision="0" Scale="0" Size="0" SourceColumn="ItemText" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p10" Precision="0" Scale="0" Size="0" SourceColumn="Command" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int16" Direction="Input" ParameterName="p11" Precision="0" Scale="0" Size="0" SourceColumn="Command" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="p12" Precision="0" Scale="0" Size="0" SourceColumn="Argument" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="p13" Precision="0" Scale="0" Size="0" SourceColumn="Argument" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SwitchboardID" DataSetColumn="SwitchboardID" />
+              <Mapping SourceColumn="ItemNumber" DataSetColumn="ItemNumber" />
+              <Mapping SourceColumn="ItemText" DataSetColumn="ItemText" />
+              <Mapping SourceColumn="Command" DataSetColumn="Command" />
+              <Mapping SourceColumn="Argument" DataSetColumn="Argument" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="StudentsDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="StudentsDataSet" msprop:Generator_DataSetName="StudentsDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Assignments" msprop:Generator_UserTableName="Assignments" msprop:Generator_TableClassName="AssignmentsDataTable" msprop:Generator_RowClassName="AssignmentsRow" msprop:Generator_RowEvArgName="AssignmentsRowChangeEvent" msprop:Generator_RowEvHandlerName="AssignmentsRowChangeEventHandler" msprop:Generator_TablePropName="Assignments" msprop:Generator_TableVarName="tableAssignments">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AssignmentID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="AssignmentID" msprop:Generator_ColumnVarNameInTable="columnAssignmentID" msprop:Generator_ColumnPropNameInRow="AssignmentID" msprop:Generator_ColumnPropNameInTable="AssignmentIDColumn" type="xs:int" />
+              <xs:element name="AssignmentDescription" msprop:Generator_UserColumnName="AssignmentDescription" msprop:Generator_ColumnVarNameInTable="columnAssignmentDescription" msprop:Generator_ColumnPropNameInRow="AssignmentDescription" msprop:Generator_ColumnPropNameInTable="AssignmentDescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ClassID" msprop:Generator_UserColumnName="ClassID" msprop:Generator_ColumnVarNameInTable="columnClassID" msprop:Generator_ColumnPropNameInRow="ClassID" msprop:Generator_ColumnPropNameInTable="ClassIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Exam" msprop:Generator_UserColumnName="Exam" msprop:Generator_ColumnVarNameInTable="columnExam" msprop:Generator_ColumnPropNameInRow="Exam" msprop:Generator_ColumnPropNameInTable="ExamColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="PercentOfGrade" msprop:Generator_UserColumnName="PercentOfGrade" msprop:Generator_ColumnVarNameInTable="columnPercentOfGrade" msprop:Generator_ColumnPropNameInRow="PercentOfGrade" msprop:Generator_ColumnPropNameInTable="PercentOfGradeColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MaximumPoints" msprop:Generator_UserColumnName="MaximumPoints" msprop:Generator_ColumnVarNameInTable="columnMaximumPoints" msprop:Generator_ColumnPropNameInRow="MaximumPoints" msprop:Generator_ColumnPropNameInTable="MaximumPointsColumn" type="xs:float" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Classes" msprop:Generator_UserTableName="Classes" msprop:Generator_TableClassName="ClassesDataTable" msprop:Generator_RowClassName="ClassesRow" msprop:Generator_RowEvArgName="ClassesRowChangeEvent" msprop:Generator_RowEvHandlerName="ClassesRowChangeEventHandler" msprop:Generator_TablePropName="Classes" msprop:Generator_TableVarName="tableClasses">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ClassID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="ClassID" msprop:Generator_ColumnVarNameInTable="columnClassID" msprop:Generator_ColumnPropNameInRow="ClassID" msprop:Generator_ColumnPropNameInTable="ClassIDColumn" type="xs:int" />
+              <xs:element name="ClassName" msprop:Generator_UserColumnName="ClassName" msprop:Generator_ColumnVarNameInTable="columnClassName" msprop:Generator_ColumnPropNameInRow="ClassName" msprop:Generator_ColumnPropNameInTable="ClassNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Department" msprop:Generator_UserColumnName="Department" msprop:Generator_ColumnVarNameInTable="columnDepartment" msprop:Generator_ColumnPropNameInRow="Department" msprop:Generator_ColumnPropNameInTable="DepartmentColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Prof" msprop:Generator_UserColumnName="Prof" msprop:Generator_ColumnVarNameInTable="columnProf" msprop:Generator_ColumnPropNameInRow="Prof" msprop:Generator_ColumnPropNameInTable="ProfColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SectionNumber" msprop:Generator_UserColumnName="SectionNumber" msprop:Generator_ColumnVarNameInTable="columnSectionNumber" msprop:Generator_ColumnPropNameInRow="SectionNumber" msprop:Generator_ColumnPropNameInTable="SectionNumberColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Term" msprop:Generator_UserColumnName="Term" msprop:Generator_ColumnVarNameInTable="columnTerm" msprop:Generator_ColumnPropNameInRow="Term" msprop:Generator_ColumnPropNameInTable="TermColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Units" msprop:Generator_UserColumnName="Units" msprop:Generator_ColumnVarNameInTable="columnUnits" msprop:Generator_ColumnPropNameInRow="Units" msprop:Generator_ColumnPropNameInTable="UnitsColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Year" msprop:Generator_UserColumnName="Year" msprop:Generator_ColumnVarNameInTable="columnYear" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnPropNameInTable="YearColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Location" msprop:Generator_UserColumnName="Location" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnPropNameInTable="LocationColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DaysAndTimes" msprop:Generator_UserColumnName="DaysAndTimes" msprop:Generator_ColumnVarNameInTable="columnDaysAndTimes" msprop:Generator_ColumnPropNameInRow="DaysAndTimes" msprop:Generator_ColumnPropNameInTable="DaysAndTimesColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Notes" msprop:Generator_UserColumnName="Notes" msprop:Generator_ColumnVarNameInTable="columnNotes" msprop:Generator_ColumnPropNameInRow="Notes" msprop:Generator_ColumnPropNameInTable="NotesColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="536870910" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Departments" msprop:Generator_UserTableName="Departments" msprop:Generator_TableClassName="DepartmentsDataTable" msprop:Generator_RowClassName="DepartmentsRow" msprop:Generator_RowEvArgName="DepartmentsRowChangeEvent" msprop:Generator_RowEvHandlerName="DepartmentsRowChangeEventHandler" msprop:Generator_TablePropName="Departments" msprop:Generator_TableVarName="tableDepartments">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DepartmentID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="DepartmentID" msprop:Generator_ColumnVarNameInTable="columnDepartmentID" msprop:Generator_ColumnPropNameInRow="DepartmentID" msprop:Generator_ColumnPropNameInTable="DepartmentIDColumn" type="xs:int" />
+              <xs:element name="DepartmentName" msprop:Generator_UserColumnName="DepartmentName" msprop:Generator_ColumnVarNameInTable="columnDepartmentName" msprop:Generator_ColumnPropNameInRow="DepartmentName" msprop:Generator_ColumnPropNameInTable="DepartmentNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DepartmentNumber" msprop:Generator_UserColumnName="DepartmentNumber" msprop:Generator_ColumnVarNameInTable="columnDepartmentNumber" msprop:Generator_ColumnPropNameInRow="DepartmentNumber" msprop:Generator_ColumnPropNameInTable="DepartmentNumberColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="DepartmentManager" msprop:Generator_UserColumnName="DepartmentManager" msprop:Generator_ColumnVarNameInTable="columnDepartmentManager" msprop:Generator_ColumnPropNameInRow="DepartmentManager" msprop:Generator_ColumnPropNameInTable="DepartmentManagerColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DepartmentChairperson" msprop:Generator_UserColumnName="DepartmentChairperson" msprop:Generator_ColumnVarNameInTable="columnDepartmentChairperson" msprop:Generator_ColumnPropNameInRow="DepartmentChairperson" msprop:Generator_ColumnPropNameInTable="DepartmentChairpersonColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Instructors" msprop:Generator_UserTableName="Instructors" msprop:Generator_TableClassName="InstructorsDataTable" msprop:Generator_RowClassName="InstructorsRow" msprop:Generator_RowEvArgName="InstructorsRowChangeEvent" msprop:Generator_RowEvHandlerName="InstructorsRowChangeEventHandler" msprop:Generator_TablePropName="Instructors" msprop:Generator_TableVarName="tableInstructors">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="InstructorID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="InstructorID" msprop:Generator_ColumnVarNameInTable="columnInstructorID" msprop:Generator_ColumnPropNameInRow="InstructorID" msprop:Generator_ColumnPropNameInTable="InstructorIDColumn" type="xs:int" />
+              <xs:element name="Instructor" msprop:Generator_UserColumnName="Instructor" msprop:Generator_ColumnVarNameInTable="columnInstructor" msprop:Generator_ColumnPropNameInRow="Instructor" msprop:Generator_ColumnPropNameInTable="InstructorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PhoneNumber" msprop:Generator_UserColumnName="PhoneNumber" msprop:Generator_ColumnVarNameInTable="columnPhoneNumber" msprop:Generator_ColumnPropNameInRow="PhoneNumber" msprop:Generator_ColumnPropNameInTable="PhoneNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Extension" msprop:Generator_UserColumnName="Extension" msprop:Generator_ColumnVarNameInTable="columnExtension" msprop:Generator_ColumnPropNameInRow="Extension" msprop:Generator_ColumnPropNameInTable="ExtensionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Results" msprop:Generator_UserTableName="Results" msprop:Generator_TableClassName="ResultsDataTable" msprop:Generator_RowClassName="ResultsRow" msprop:Generator_RowEvArgName="ResultsRowChangeEvent" msprop:Generator_RowEvHandlerName="ResultsRowChangeEventHandler" msprop:Generator_TablePropName="Results" msprop:Generator_TableVarName="tableResults">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ResultsID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="ResultsID" msprop:Generator_ColumnVarNameInTable="columnResultsID" msprop:Generator_ColumnPropNameInRow="ResultsID" msprop:Generator_ColumnPropNameInTable="ResultsIDColumn" type="xs:int" />
+              <xs:element name="StudentID" msprop:Generator_UserColumnName="StudentID" msprop:Generator_ColumnVarNameInTable="columnStudentID" msprop:Generator_ColumnPropNameInRow="StudentID" msprop:Generator_ColumnPropNameInTable="StudentIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="AssignmentID" msprop:Generator_UserColumnName="AssignmentID" msprop:Generator_ColumnVarNameInTable="columnAssignmentID" msprop:Generator_ColumnPropNameInRow="AssignmentID" msprop:Generator_ColumnPropNameInTable="AssignmentIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Score" msprop:Generator_UserColumnName="Score" msprop:Generator_ColumnVarNameInTable="columnScore" msprop:Generator_ColumnPropNameInRow="Score" msprop:Generator_ColumnPropNameInTable="ScoreColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Late" msprop:Generator_UserColumnName="Late" msprop:Generator_ColumnVarNameInTable="columnLate" msprop:Generator_ColumnPropNameInRow="Late" msprop:Generator_ColumnPropNameInTable="LateColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Students" msprop:Generator_UserTableName="Students" msprop:Generator_TableClassName="StudentsDataTable" msprop:Generator_RowClassName="StudentsRow" msprop:Generator_RowEvArgName="StudentsRowChangeEvent" msprop:Generator_RowEvHandlerName="StudentsRowChangeEventHandler" msprop:Generator_TablePropName="Students" msprop:Generator_TableVarName="tableStudents">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StudentID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="StudentID" msprop:Generator_ColumnVarNameInTable="columnStudentID" msprop:Generator_ColumnPropNameInRow="StudentID" msprop:Generator_ColumnPropNameInTable="StudentIDColumn" type="xs:int" />
+              <xs:element name="FirstName" msprop:Generator_UserColumnName="FirstName" msprop:Generator_ColumnVarNameInTable="columnFirstName" msprop:Generator_ColumnPropNameInRow="FirstName" msprop:Generator_ColumnPropNameInTable="FirstNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LastName" msprop:Generator_UserColumnName="LastName" msprop:Generator_ColumnVarNameInTable="columnLastName" msprop:Generator_ColumnPropNameInRow="LastName" msprop:Generator_ColumnPropNameInTable="LastNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Address" msprop:Generator_UserColumnName="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="City" msprop:Generator_UserColumnName="City" msprop:Generator_ColumnVarNameInTable="columnCity" msprop:Generator_ColumnPropNameInRow="City" msprop:Generator_ColumnPropNameInTable="CityColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StateOrProvince" msprop:Generator_UserColumnName="StateOrProvince" msprop:Generator_ColumnVarNameInTable="columnStateOrProvince" msprop:Generator_ColumnPropNameInRow="StateOrProvince" msprop:Generator_ColumnPropNameInTable="StateOrProvinceColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PostalCode" msprop:Generator_UserColumnName="PostalCode" msprop:Generator_ColumnVarNameInTable="columnPostalCode" msprop:Generator_ColumnPropNameInRow="PostalCode" msprop:Generator_ColumnPropNameInTable="PostalCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PhoneNumber" msprop:Generator_UserColumnName="PhoneNumber" msprop:Generator_ColumnVarNameInTable="columnPhoneNumber" msprop:Generator_ColumnPropNameInRow="PhoneNumber" msprop:Generator_ColumnPropNameInTable="PhoneNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Major" msprop:Generator_UserColumnName="Major" msprop:Generator_ColumnVarNameInTable="columnMajor" msprop:Generator_ColumnPropNameInRow="Major" msprop:Generator_ColumnPropNameInTable="MajorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StudentNumber" msprop:Generator_UserColumnName="StudentNumber" msprop:Generator_ColumnVarNameInTable="columnStudentNumber" msprop:Generator_ColumnPropNameInRow="StudentNumber" msprop:Generator_ColumnPropNameInTable="StudentNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Students_x0020_And_x0020_Classes" msprop:Generator_UserTableName="Students And Classes" msprop:Generator_TableClassName="Students_And_ClassesDataTable" msprop:Generator_RowClassName="Students_And_ClassesRow" msprop:Generator_RowEvArgName="Students_And_ClassesRowChangeEvent" msprop:Generator_RowEvHandlerName="Students_And_ClassesRowChangeEventHandler" msprop:Generator_TablePropName="Students_And_Classes" msprop:Generator_TableVarName="tableStudents_And_Classes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StudentClassID" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="StudentClassID" msprop:Generator_ColumnVarNameInTable="columnStudentClassID" msprop:Generator_ColumnPropNameInRow="StudentClassID" msprop:Generator_ColumnPropNameInTable="StudentClassIDColumn" type="xs:int" />
+              <xs:element name="ClassID" msprop:Generator_UserColumnName="ClassID" msprop:Generator_ColumnVarNameInTable="columnClassID" msprop:Generator_ColumnPropNameInRow="ClassID" msprop:Generator_ColumnPropNameInTable="ClassIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="StudentID" msprop:Generator_UserColumnName="StudentID" msprop:Generator_ColumnVarNameInTable="columnStudentID" msprop:Generator_ColumnPropNameInRow="StudentID" msprop:Generator_ColumnPropNameInTable="StudentIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Grade" msprop:Generator_UserColumnName="Grade" msprop:Generator_ColumnVarNameInTable="columnGrade" msprop:Generator_ColumnPropNameInRow="Grade" msprop:Generator_ColumnPropNameInTable="GradeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Switchboard_x0020_Items" msprop:Generator_UserTableName="Switchboard Items" msprop:Generator_TableClassName="Switchboard_ItemsDataTable" msprop:Generator_RowClassName="Switchboard_ItemsRow" msprop:Generator_RowEvArgName="Switchboard_ItemsRowChangeEvent" msprop:Generator_RowEvHandlerName="Switchboard_ItemsRowChangeEventHandler" msprop:Generator_TablePropName="Switchboard_Items" msprop:Generator_TableVarName="tableSwitchboard_Items">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SwitchboardID" msprop:Generator_UserColumnName="SwitchboardID" msprop:Generator_ColumnVarNameInTable="columnSwitchboardID" msprop:Generator_ColumnPropNameInRow="SwitchboardID" msprop:Generator_ColumnPropNameInTable="SwitchboardIDColumn" type="xs:int" />
+              <xs:element name="ItemNumber" msprop:Generator_UserColumnName="ItemNumber" msprop:Generator_ColumnVarNameInTable="columnItemNumber" msprop:Generator_ColumnPropNameInRow="ItemNumber" msprop:Generator_ColumnPropNameInTable="ItemNumberColumn" type="xs:short" />
+              <xs:element name="ItemText" msprop:Generator_UserColumnName="ItemText" msprop:Generator_ColumnVarNameInTable="columnItemText" msprop:Generator_ColumnPropNameInRow="ItemText" msprop:Generator_ColumnPropNameInTable="ItemTextColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Command" msprop:Generator_UserColumnName="Command" msprop:Generator_ColumnVarNameInTable="columnCommand" msprop:Generator_ColumnPropNameInRow="Command" msprop:Generator_ColumnPropNameInTable="CommandColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="Argument" msprop:Generator_UserColumnName="Argument" msprop:Generator_ColumnVarNameInTable="columnArgument" msprop:Generator_ColumnPropNameInRow="Argument" msprop:Generator_ColumnPropNameInTable="ArgumentColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Assignments" />
+      <xs:field xpath="mstns:AssignmentID" />
+    </xs:unique>
+    <xs:unique name="Classes_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Classes" />
+      <xs:field xpath="mstns:ClassID" />
+    </xs:unique>
+    <xs:unique name="Departments_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Departments" />
+      <xs:field xpath="mstns:DepartmentID" />
+    </xs:unique>
+    <xs:unique name="Instructors_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Instructors" />
+      <xs:field xpath="mstns:InstructorID" />
+    </xs:unique>
+    <xs:unique name="Results_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Results" />
+      <xs:field xpath="mstns:ResultsID" />
+    </xs:unique>
+    <xs:unique name="Students_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Students" />
+      <xs:field xpath="mstns:StudentID" />
+    </xs:unique>
+    <xs:unique name="Students_x0020_And_x0020_Classes_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Students_x0020_And_x0020_Classes" />
+      <xs:field xpath="mstns:StudentClassID" />
+    </xs:unique>
+    <xs:unique name="Switchboard_x0020_Items_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Switchboard_x0020_Items" />
+      <xs:field xpath="mstns:SwitchboardID" />
+      <xs:field xpath="mstns:ItemNumber" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Reference3" msdata:parent="Classes" msdata:child="Assignments" msdata:parentkey="ClassID" msdata:childkey="ClassID" msprop:Generator_UserRelationName="Reference3" msprop:Generator_RelationVarName="relationReference3" msprop:Generator_UserChildTable="Assignments" msprop:Generator_UserParentTable="Classes" msprop:Generator_ParentPropName="ClassesRow" msprop:Generator_ChildPropName="GetAssignmentsRows" />
+      <msdata:Relationship name="Reference5" msdata:parent="Students" msdata:child="Results" msdata:parentkey="StudentID" msdata:childkey="StudentID" msprop:Generator_UserRelationName="Reference5" msprop:Generator_RelationVarName="relationReference5" msprop:Generator_UserChildTable="Results" msprop:Generator_UserParentTable="Students" msprop:Generator_ParentPropName="StudentsRow" msprop:Generator_ChildPropName="GetResultsRows" />
+      <msdata:Relationship name="Reference6" msdata:parent="Assignments" msdata:child="Results" msdata:parentkey="AssignmentID" msdata:childkey="AssignmentID" msprop:Generator_UserRelationName="Reference6" msprop:Generator_RelationVarName="relationReference6" msprop:Generator_UserChildTable="Results" msprop:Generator_UserParentTable="Assignments" msprop:Generator_ParentPropName="AssignmentsRow" msprop:Generator_ChildPropName="GetResultsRows" />
+      <msdata:Relationship name="Reference4" msdata:parent="Students" msdata:child="Students_x0020_And_x0020_Classes" msdata:parentkey="StudentID" msdata:childkey="StudentID" msprop:Generator_UserRelationName="Reference4" msprop:Generator_RelationVarName="relationReference4" msprop:Generator_UserChildTable="Students And Classes" msprop:Generator_UserParentTable="Students" msprop:Generator_ParentPropName="StudentsRow" msprop:Generator_ChildPropName="GetStudents_And_ClassesRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

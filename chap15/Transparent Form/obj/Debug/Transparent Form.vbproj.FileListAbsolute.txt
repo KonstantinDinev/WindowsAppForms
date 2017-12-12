@@ -1,0 +1,10 @@
+C:\vb05sbs\chap15 Draw\Transparent Form\bin\Debug\Transparent Form.exe
+C:\vb05sbs\chap15 Draw\Transparent Form\bin\Debug\Transparent Form.pdb
+C:\vb05sbs\chap15 Draw\Transparent Form\bin\Debug\Transparent Form.xml
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent Form.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent_Form.Form1.resources
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent_Form.Resources.resources
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent Form.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent Form.exe
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent Form.xml
+C:\vb05sbs\chap15 Draw\Transparent Form\obj\Debug\Transparent Form.pdb

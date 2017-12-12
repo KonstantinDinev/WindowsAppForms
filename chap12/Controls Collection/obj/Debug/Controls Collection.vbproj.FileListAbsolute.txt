@@ -1,0 +1,10 @@
+C:\vb05sbs\chap12\Controls Collection\bin\Debug\Controls Collection.exe
+C:\vb05sbs\chap12\Controls Collection\bin\Debug\Controls Collection.pdb
+C:\vb05sbs\chap12\Controls Collection\bin\Debug\Controls Collection.xml
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls Collection.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls_Collection.Form1.resources
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls_Collection.Resources.resources
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls Collection.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls Collection.exe
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls Collection.xml
+C:\vb05sbs\chap12\Controls Collection\obj\Debug\Controls Collection.pdb

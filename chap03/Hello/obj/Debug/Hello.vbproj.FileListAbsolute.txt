@@ -1,0 +1,10 @@
+C:\vb05sbs\chap03\Hello\bin\Debug\Hello.exe
+C:\vb05sbs\chap03\Hello\bin\Debug\Hello.pdb
+C:\vb05sbs\chap03\Hello\bin\Debug\Hello.xml
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.Form1.resources
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.Resources.resources
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.exe
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.xml
+C:\vb05sbs\chap03\Hello\obj\Debug\Hello.pdb

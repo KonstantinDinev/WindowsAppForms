@@ -1,0 +1,10 @@
+C:\vb05sbs\chap05 Math Data Types\Data Types\bin\Debug\Data Types.exe
+C:\vb05sbs\chap05 Math Data Types\Data Types\bin\Debug\Data Types.pdb
+C:\vb05sbs\chap05 Math Data Types\Data Types\bin\Debug\Data Types.xml
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data Types.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data_Types.Form1.resources
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data_Types.Resources.resources
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data Types.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data Types.exe
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data Types.xml
+C:\vb05sbs\chap05 Math Data Types\Data Types\obj\Debug\Data Types.pdb

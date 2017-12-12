@@ -1,0 +1,10 @@
+C:\vb05sbs\chap07\Windows Version Snippet\bin\Debug\Windows Version Snippet.exe
+C:\vb05sbs\chap07\Windows Version Snippet\bin\Debug\Windows Version Snippet.pdb
+C:\vb05sbs\chap07\Windows Version Snippet\bin\Debug\Windows Version Snippet.xml
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows Version Snippet.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows_Version_Snippet.Form1.resources
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows_Version_Snippet.Resources.resources
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows Version Snippet.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows Version Snippet.exe
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows Version Snippet.xml
+C:\vb05sbs\chap07\Windows Version Snippet\obj\Debug\Windows Version Snippet.pdb

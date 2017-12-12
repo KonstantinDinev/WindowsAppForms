@@ -1,0 +1,10 @@
+C:\vb05sbs\chap10\TrackWins\Lucky7\bin\Debug\TrackWins.exe
+C:\vb05sbs\chap10\TrackWins\Lucky7\bin\Debug\TrackWins.pdb
+C:\vb05sbs\chap10\TrackWins\Lucky7\bin\Debug\TrackWins.xml
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.TrackWins.resources
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.Resources.resources
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.exe
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.xml
+C:\vb05sbs\chap10\TrackWins\Lucky7\obj\Debug\TrackWins.pdb

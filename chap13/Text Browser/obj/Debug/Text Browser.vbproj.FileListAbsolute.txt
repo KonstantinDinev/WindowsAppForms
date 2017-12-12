@@ -1,0 +1,10 @@
+C:\vb05sbs\chap13\Text Browser\bin\Debug\Text Browser.exe
+C:\vb05sbs\chap13\Text Browser\bin\Debug\Text Browser.pdb
+C:\vb05sbs\chap13\Text Browser\bin\Debug\Text Browser.xml
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text Browser.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text_Browser.Form1.resources
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text_Browser.Resources.resources
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text Browser.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text Browser.exe
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text Browser.xml
+C:\vb05sbs\chap13\Text Browser\obj\Debug\Text Browser.pdb

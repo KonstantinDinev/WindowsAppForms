@@ -1,0 +1,10 @@
+C:\vb05sbs\chap14\Anchor and Dock\bin\Debug\Anchor and Dock.exe
+C:\vb05sbs\chap14\Anchor and Dock\bin\Debug\Anchor and Dock.pdb
+C:\vb05sbs\chap14\Anchor and Dock\bin\Debug\Anchor and Dock.xml
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor and Dock.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor_and_Dock.Form1.resources
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor_and_Dock.Resources.resources
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor and Dock.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor and Dock.exe
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor and Dock.xml
+C:\vb05sbs\chap14\Anchor and Dock\obj\Debug\Anchor and Dock.pdb

@@ -1,0 +1,10 @@
+C:\vb05sbs\chap07\For Loop Icons\bin\Debug\For Loop Icons.exe
+C:\vb05sbs\chap07\For Loop Icons\bin\Debug\For Loop Icons.pdb
+C:\vb05sbs\chap07\For Loop Icons\bin\Debug\For Loop Icons.xml
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For Loop Icons.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For_Loop_Icons.Form1.resources
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For_Loop_Icons.Resources.resources
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For Loop Icons.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For Loop Icons.exe
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For Loop Icons.xml
+C:\vb05sbs\chap07\For Loop Icons\obj\Debug\For Loop Icons.pdb

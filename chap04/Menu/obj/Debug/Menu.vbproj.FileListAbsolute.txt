@@ -1,0 +1,10 @@
+C:\vb05sbs\chap04\Menu\bin\Debug\Menu.exe
+C:\vb05sbs\chap04\Menu\bin\Debug\Menu.pdb
+C:\vb05sbs\chap04\Menu\bin\Debug\Menu.xml
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.Form1.resources
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.Resources.resources
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.exe
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.xml
+C:\vb05sbs\chap04\Menu\obj\Debug\Menu.pdb

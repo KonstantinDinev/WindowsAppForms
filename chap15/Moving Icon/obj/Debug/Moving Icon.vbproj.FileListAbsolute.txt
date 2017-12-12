@@ -1,0 +1,10 @@
+C:\vb05sbs\chap15 Draw\Moving Icon\bin\Debug\Moving Icon.exe
+C:\vb05sbs\chap15 Draw\Moving Icon\bin\Debug\Moving Icon.pdb
+C:\vb05sbs\chap15 Draw\Moving Icon\bin\Debug\Moving Icon.xml
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving Icon.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving_Icon.Form1.resources
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving_Icon.Resources.resources
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving Icon.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving Icon.exe
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving Icon.xml
+C:\vb05sbs\chap15 Draw\Moving Icon\obj\Debug\Moving Icon.pdb

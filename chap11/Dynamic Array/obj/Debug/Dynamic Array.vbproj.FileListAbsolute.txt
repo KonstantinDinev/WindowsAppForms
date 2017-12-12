@@ -1,0 +1,10 @@
+C:\vb05sbs\chap11\Dynamic Array\bin\Debug\Dynamic Array.exe
+C:\vb05sbs\chap11\Dynamic Array\bin\Debug\Dynamic Array.pdb
+C:\vb05sbs\chap11\Dynamic Array\bin\Debug\Dynamic Array.xml
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic Array.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic_Array.Form1.resources
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic_Array.Resources.resources
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic Array.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic Array.exe
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic Array.xml
+C:\vb05sbs\chap11\Dynamic Array\obj\Debug\Dynamic Array.pdb

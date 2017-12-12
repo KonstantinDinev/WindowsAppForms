@@ -1,0 +1,10 @@
+C:\vb05sbs\chap14\Desktop Bounds\bin\Debug\Desktop Bounds.exe
+C:\vb05sbs\chap14\Desktop Bounds\bin\Debug\Desktop Bounds.pdb
+C:\vb05sbs\chap14\Desktop Bounds\bin\Debug\Desktop Bounds.xml
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop Bounds.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop_Bounds.Form1.resources
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop_Bounds.Resources.resources
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop Bounds.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop Bounds.exe
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop Bounds.xml
+C:\vb05sbs\chap14\Desktop Bounds\obj\Debug\Desktop Bounds.pdb

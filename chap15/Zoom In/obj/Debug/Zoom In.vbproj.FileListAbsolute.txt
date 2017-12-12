@@ -1,0 +1,10 @@
+C:\vb05sbs\chap15 Draw\Zoom In\bin\Debug\Zoom In.exe
+C:\vb05sbs\chap15 Draw\Zoom In\bin\Debug\Zoom In.pdb
+C:\vb05sbs\chap15 Draw\Zoom In\bin\Debug\Zoom In.xml
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom In.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom_In.Form1.resources
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom_In.Resources.resources
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom In.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom In.exe
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom In.xml
+C:\vb05sbs\chap15 Draw\Zoom In\obj\Debug\Zoom In.pdb
