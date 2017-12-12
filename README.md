@@ -1,2 +1,2 @@
 # WindowsAppForms
-Samples
+Sample Controls
