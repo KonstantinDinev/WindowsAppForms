@@ -1,0 +1,10 @@
+C:\vb05sbs\chap17\Print Dialogs\bin\Debug\Print Dialogs.exe
+C:\vb05sbs\chap17\Print Dialogs\bin\Debug\Print Dialogs.pdb
+C:\vb05sbs\chap17\Print Dialogs\bin\Debug\Print Dialogs.xml
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print Dialogs.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print_Dialogs.Form1.resources
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print_Dialogs.Resources.resources
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print Dialogs.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print Dialogs.exe
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print Dialogs.xml
+C:\vb05sbs\chap17\Print Dialogs\obj\Debug\Print Dialogs.pdb

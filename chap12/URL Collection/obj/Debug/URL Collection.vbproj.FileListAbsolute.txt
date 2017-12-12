@@ -1,0 +1,10 @@
+C:\vb05sbs\chap12\URL Collection\bin\Debug\URL Collection.exe
+C:\vb05sbs\chap12\URL Collection\bin\Debug\URL Collection.pdb
+C:\vb05sbs\chap12\URL Collection\bin\Debug\URL Collection.xml
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL Collection.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL_Collection.Form1.resources
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL_Collection.Resources.resources
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL Collection.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL Collection.exe
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL Collection.xml
+C:\vb05sbs\chap12\URL Collection\obj\Debug\URL Collection.pdb

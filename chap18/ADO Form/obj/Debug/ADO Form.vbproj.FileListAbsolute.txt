@@ -1,0 +1,11 @@
+C:\vb05sbs\chap18\ADO Form\bin\Debug\ADO Form.exe.config
+C:\vb05sbs\chap18\ADO Form\bin\Debug\ADO Form.exe
+C:\vb05sbs\chap18\ADO Form\bin\Debug\ADO Form.pdb
+C:\vb05sbs\chap18\ADO Form\bin\Debug\ADO Form.xml
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO Form.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO_Form.Form1.resources
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO_Form.Resources.resources
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO Form.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO Form.exe
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO Form.xml
+C:\vb05sbs\chap18\ADO Form\obj\Debug\ADO Form.pdb

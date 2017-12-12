@@ -1,0 +1,10 @@
+C:\vb05sbs\chap14\Add Controls\bin\Debug\Add Controls.exe
+C:\vb05sbs\chap14\Add Controls\bin\Debug\Add Controls.pdb
+C:\vb05sbs\chap14\Add Controls\bin\Debug\Add Controls.xml
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add Controls.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add_Controls.Form1.resources
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add_Controls.Resources.resources
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add Controls.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add Controls.exe
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add Controls.xml
+C:\vb05sbs\chap14\Add Controls\obj\Debug\Add Controls.pdb

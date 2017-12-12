@@ -1,0 +1,10 @@
+C:\vb05sbs\chap03\CheckBox\bin\Debug\CheckBox.exe
+C:\vb05sbs\chap03\CheckBox\bin\Debug\CheckBox.pdb
+C:\vb05sbs\chap03\CheckBox\bin\Debug\CheckBox.xml
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.Form1.resources
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.Resources.resources
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.exe
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.xml
+C:\vb05sbs\chap03\CheckBox\obj\Debug\CheckBox.pdb

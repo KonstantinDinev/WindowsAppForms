@@ -1,0 +1,10 @@
+C:\vb05sbs\chap11\Array Class Sorts\bin\Debug\Array Class Sorts.exe
+C:\vb05sbs\chap11\Array Class Sorts\bin\Debug\Array Class Sorts.pdb
+C:\vb05sbs\chap11\Array Class Sorts\bin\Debug\Array Class Sorts.xml
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array Class Sorts.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array_Class_Sorts.Form1.resources
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array_Class_Sorts.Resources.resources
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array Class Sorts.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array Class Sorts.exe
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array Class Sorts.xml
+C:\vb05sbs\chap11\Array Class Sorts\obj\Debug\Array Class Sorts.pdb

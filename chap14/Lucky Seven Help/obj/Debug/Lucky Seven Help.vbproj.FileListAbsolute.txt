@@ -1,0 +1,10 @@
+C:\vb05sbs\chap14\Lucky Seven Help\bin\Debug\Lucky Seven Help.exe
+C:\vb05sbs\chap14\Lucky Seven Help\bin\Debug\Lucky Seven Help.pdb
+C:\vb05sbs\chap14\Lucky Seven Help\bin\Debug\Lucky Seven Help.xml
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\Lucky Seven Help.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\LuckySevenHelp.LuckySeven.resources
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\LuckySevenHelp.Resources.resources
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\Lucky Seven Help.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\Lucky Seven Help.exe
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\Lucky Seven Help.xml
+C:\vb05sbs\chap14\Lucky Seven Help\obj\Debug\Lucky Seven Help.pdb

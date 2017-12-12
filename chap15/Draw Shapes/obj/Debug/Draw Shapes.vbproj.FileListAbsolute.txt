@@ -1,0 +1,10 @@
+C:\vb05sbs\chap15 Draw\Draw Shapes\bin\Debug\Draw Shapes.exe
+C:\vb05sbs\chap15 Draw\Draw Shapes\bin\Debug\Draw Shapes.pdb
+C:\vb05sbs\chap15 Draw\Draw Shapes\bin\Debug\Draw Shapes.xml
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw Shapes.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw_Shapes.Form1.resources
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw_Shapes.Resources.resources
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw Shapes.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw Shapes.exe
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw Shapes.xml
+C:\vb05sbs\chap15 Draw\Draw Shapes\obj\Debug\Draw Shapes.pdb

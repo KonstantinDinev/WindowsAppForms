@@ -1,0 +1,10 @@
+C:\vb05sbs\chap03\Input Controls\bin\InputControls.exe
+C:\vb05sbs\chap03\Input Controls\bin\InputControls.pdb
+C:\vb05sbs\chap03\Input Controls\bin\InputControls.xml
+C:\vb05sbs\chap03\Input Controls\obj\Debug\Input Controls.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap03\Input Controls\obj\Debug\InputControls.Form1.resources
+C:\vb05sbs\chap03\Input Controls\obj\Debug\InputControls.Resources.resources
+C:\vb05sbs\chap03\Input Controls\obj\Debug\Input Controls.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap03\Input Controls\obj\Debug\InputControls.exe
+C:\vb05sbs\chap03\Input Controls\obj\Debug\InputControls.xml
+C:\vb05sbs\chap03\Input Controls\obj\Debug\InputControls.pdb

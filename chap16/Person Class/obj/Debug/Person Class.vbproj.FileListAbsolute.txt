@@ -1,0 +1,10 @@
+C:\vb05sbs\chap16\Person Class\bin\Debug\Person Class.exe
+C:\vb05sbs\chap16\Person Class\bin\Debug\Person Class.pdb
+C:\vb05sbs\chap16\Person Class\bin\Debug\Person Class.xml
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person Class.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person_Class.Form1.resources
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person_Class.Resources.resources
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person Class.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person Class.exe
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person Class.xml
+C:\vb05sbs\chap16\Person Class\obj\Debug\Person Class.pdb

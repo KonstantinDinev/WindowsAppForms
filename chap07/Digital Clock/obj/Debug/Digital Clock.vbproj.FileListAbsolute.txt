@@ -1,0 +1,10 @@
+C:\vb05sbs\chap07\Digital Clock\bin\Debug\Digital Clock.exe
+C:\vb05sbs\chap07\Digital Clock\bin\Debug\Digital Clock.pdb
+C:\vb05sbs\chap07\Digital Clock\bin\Debug\Digital Clock.xml
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital Clock.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital_Clock.Resources.resources
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital Clock.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital Clock.exe
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital Clock.xml
+C:\vb05sbs\chap07\Digital Clock\obj\Debug\Digital Clock.pdb

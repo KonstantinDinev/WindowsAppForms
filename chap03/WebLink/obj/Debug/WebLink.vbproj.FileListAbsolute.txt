@@ -1,0 +1,10 @@
+C:\vb05sbs\chap03\WebLink\bin\Debug\WebLink.exe
+C:\vb05sbs\chap03\WebLink\bin\Debug\WebLink.pdb
+C:\vb05sbs\chap03\WebLink\bin\Debug\WebLink.xml
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.Form1.resources
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.Resources.resources
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.exe
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.xml
+C:\vb05sbs\chap03\WebLink\obj\Debug\WebLink.pdb

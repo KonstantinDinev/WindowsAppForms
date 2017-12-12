@@ -1,0 +1,11 @@
+C:\vb05sbs\chap16\Form Inheritance\bin\Debug\Form Inheritance.exe
+C:\vb05sbs\chap16\Form Inheritance\bin\Debug\Form Inheritance.pdb
+C:\vb05sbs\chap16\Form Inheritance\bin\Debug\Form Inheritance.xml
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form Inheritance.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form_Inheritance.Form1.resources
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form_Inheritance.Form2.resources
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form_Inheritance.Resources.resources
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form Inheritance.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form Inheritance.exe
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form Inheritance.xml
+C:\vb05sbs\chap16\Form Inheritance\obj\Debug\Form Inheritance.pdb

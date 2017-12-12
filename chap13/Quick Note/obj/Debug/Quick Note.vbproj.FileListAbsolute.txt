@@ -1,0 +1,10 @@
+C:\vb05sbs\chap13\Quick Note\bin\Debug\Quick Note.exe
+C:\vb05sbs\chap13\Quick Note\bin\Debug\Quick Note.pdb
+C:\vb05sbs\chap13\Quick Note\bin\Debug\Quick Note.xml
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick Note.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick_Note.Form1.resources
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick_Note.Resources.resources
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick Note.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick Note.exe
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick Note.xml
+C:\vb05sbs\chap13\Quick Note\obj\Debug\Quick Note.pdb

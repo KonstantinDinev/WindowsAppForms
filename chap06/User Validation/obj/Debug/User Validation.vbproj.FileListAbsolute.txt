@@ -1,0 +1,20 @@
+C:\vb05sbs\chap06\User Validation\bin\Debug\User Validation.exe
+C:\vb05sbs\chap06\User Validation\bin\Debug\User Validation.pdb
+C:\vb05sbs\chap06\User Validation\bin\Debug\User Validation.xml
+C:\vb05sbs\chap06\User Validation\obj\Debug\User Validation.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap06\User Validation\obj\Debug\User_Validation.Form1.resources
+C:\vb05sbs\chap06\User Validation\obj\Debug\User_Validation.Resources.resources
+C:\vb05sbs\chap06\User Validation\obj\Debug\User Validation.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap06\User Validation\obj\Debug\User Validation.exe
+C:\vb05sbs\chap06\User Validation\obj\Debug\User Validation.xml
+C:\vb05sbs\chap06\User Validation\obj\Debug\User Validation.pdb
+C:\vb05sbs\chap06 Mask Validation\User Validation\bin\Debug\User Validation.exe
+C:\vb05sbs\chap06 Mask Validation\User Validation\bin\Debug\User Validation.pdb
+C:\vb05sbs\chap06 Mask Validation\User Validation\bin\Debug\User Validation.xml
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User Validation.vbprojResolveAssemblyReference.cache
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User_Validation.Form1.resources
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User_Validation.Resources.resources
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User Validation.vbproj.GenerateResource.Cache
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User Validation.exe
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User Validation.xml
+C:\vb05sbs\chap06 Mask Validation\User Validation\obj\Debug\User Validation.pdb
